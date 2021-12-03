@@ -1,0 +1,7 @@
+skyflat_g.001.fit
+skyflat_g.002.fit 
+skyflat_g.003.fit
+skyflat_g.004.fit 
+skyflat_g.005.fit 
+skyflat_g.006.fit
+skyflat_g.007.fit

@@ -1,0 +1,14 @@
+skyflat_r.001.fit
+skyflat_r.002.fit 
+skyflat_r.003.fit
+skyflat_r.004.fit 
+skyflat_r.005.fit 
+skyflat_r.006.fit
+skyflat_r.007.fit 
+skyflat_r.008.fit 
+skyflat_r.009.fit
+skyflat_r.010.fit 
+skyflat_r.011.fit 
+skyflat_r.012.fit
+skyflat_r.013.fit 
+skyflat_r.014.fit

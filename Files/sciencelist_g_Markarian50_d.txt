@@ -1,0 +1,6 @@
+s009d.fit
+s010d.fit
+s011d.fit
+s012d.fit
+s013d.fit
+s014d.fit

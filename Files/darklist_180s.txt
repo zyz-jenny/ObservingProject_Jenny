@@ -1,0 +1,11 @@
+d001.fit
+d002.fit
+d003.fit 
+d004.fit 
+d005.fit 
+d006.fit
+d007.fit 
+d008.fit 
+d009.fit 
+d010.fit 
+d011.fit
